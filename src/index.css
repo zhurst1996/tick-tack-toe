@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+/*
+  Overlay
+*/
+.overlay {
+  background: rgba(0, 0 , 0, 0.7);
+}
+.overlay-inner {
+  top: 15%;
+  position: relative;
+}
+
+/*
+  Visibility
+*/
+.hidden {
+  display: none;
+}
+
+/*
+  Game
+*/
+.toe-square {
+  padding: 75px;
+  font-size: 40px;
+}
