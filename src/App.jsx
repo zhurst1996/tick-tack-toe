@@ -5,7 +5,7 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 class App extends React.Component {
   render () {
     return (
-      <div className="App">
+      <div className="App h-100">
         <Board />
       </div>
     );
